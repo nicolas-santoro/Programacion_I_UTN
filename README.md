@@ -49,7 +49,7 @@ En la última parte de la cursada desarrollé un **juego con Pygame** basado en 
 
 ## 🚀 Cómo ejecutar los proyectos
 
-1. Descargar el `.zip` o la carpeta correspondiente.
+1. Descargar la carpeta desde el `Google Drive`.
 2. Abrir el archivo `.py` en tu editor (VSCode, IDLE, etc.).
 3. Ejecutar desde terminal o el botón “Run”.
 
