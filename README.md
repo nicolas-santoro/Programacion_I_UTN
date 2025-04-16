@@ -26,7 +26,7 @@ En la última parte de la cursada desarrollé un **juego con Pygame** basado en 
 - 🕹️ Desarrollo completo con imágenes, eventos y lógica de juego.
 - 💾 El proyecto está disponible como un único `.zip`.
 
-🔗 [Descargar juego de Pokémon (Google Drive)]( https://drive.google.com/...](https://drive.google.com/drive/folders/1tHn8SR1nPdgsm9S0GVy9sYWR5EyXGRNR?hl=es )
+🔗 [Descargar juego de Pokémon (Google Drive)]( [https://drive.google.com/...](https://drive.google.com/drive/folders/1tHn8SR1nPdgsm9S0GVy9sYWR5EyXGRNR?hl=es](https://drive.google.com/drive/folders/1tHn8SR1nPdgsm9S0GVy9sYWR5EyXGRNR?usp=sharing) )
 
 
 ---
