@@ -24,7 +24,7 @@ Durante la materia trabajé principalmente en:
 En la última parte de la cursada desarrollé un **juego con Pygame** basado en el clásico “¿Quién es ese Pokémon?”, donde el jugador debe adivinar qué criatura se esconde tras la silueta.
 
 - 🕹️ Desarrollo completo con imágenes, eventos y lógica de juego.
-- 💾 El proyecto está disponible como un único `.zip`.
+- 💾 Descargar el proyecto desde Google Drive o clonar este repositorio.
 
 🔗 [Descargar juego de Pokémon (Google Drive)](https://drive.google.com/drive/folders/1tHn8SR1nPdgsm9S0GVy9sYWR5EyXGRNR?usp=sharing)
 
