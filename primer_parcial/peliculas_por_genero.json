@@ -1,0 +1,143 @@
+{
+    "Ciencia ficción": [
+        "El Origen",
+        "Matrix",
+        "Star Wars: Una Nueva Esperanza",
+        "Volver al Futuro",
+        "Avatar",
+        "Interestelar",
+        "Misión Rescate",
+        "Gravedad",
+        "Blade Runner 2049",
+        "La Llegada"
+    ],
+    "Crimen": [
+        "El Padrino",
+        "Tiempos Violentos"
+    ],
+    "Animación": [
+        "Toy Story",
+        "El Rey León",
+        "Buscando a Nemo",
+        "Los Increíbles",
+        "Shrek",
+        "Frozen: Una Aventura Congelada",
+        "Coco",
+        "Spider-Man: Un Nuevo Universo",
+        "Mulán",
+        "Bichos",
+        "Zootopia",
+        "Los Increíbles 2",
+        "Toy Story 2",
+        "Buscando a Dory",
+        "Valiente",
+        "Monsters Inc.",
+        "Enredados",
+        "Mi Villano Favorito",
+        "Kung Fu Panda",
+        "La Era de Hielo",
+        "La Vida Secreta de tus Mascotas",
+        "La Gran Aventura LEGO",
+        "Aladdín",
+        "Cenicienta",
+        "La Sirenita",
+        "La Bella y la Bestia"
+    ],
+    "Superhéroes": [
+        "El Caballero Oscuro",
+        "Los Vengadores",
+        "Pantera Negra",
+        "Logan",
+        "Vengadores: Endgame"
+    ],
+    "Drama": [
+        "Forrest Gump",
+        "Sueños de Libertad",
+        "En Busca de la Felicidad",
+        "¿Quién Quiere Ser Millonario?",
+        "El Show de Truman",
+        "El Club de la Pelea",
+        "El Gran Gatsby"
+    ],
+    "Acción": [
+        "Gladiador",
+        "Duro de Matar",
+        "Mad Max: Furia en el Camino",
+        "El Renacido",
+        "John Wick: Otro Día para Matar"
+    ],
+    "Romance": [
+        "Titanic",
+        "Ella",
+        "Eterno Resplandor de una Mente Sin Recuerdos"
+    ],
+    "Aventura": [
+        "Parque Jurásico",
+        "Jurassic World",
+        "Una Aventura Extraordinaria"
+    ],
+    "Fantasía": [
+        "El Señor de los Anillos: La Comunidad del Anillo",
+        "Harry Potter y la Piedra Filosofal",
+        "El Señor de los Anillos: Las Dos Torres",
+        "El Hobbit: Un Viaje Inesperado"
+    ],
+    "Histórico": [
+        "Corazón Valiente",
+        "12 Años de Esclavitud"
+    ],
+    "Biográfico": [
+        "Una Mente Brillante",
+        "La Red Social",
+        "Hacia Rutas Salvajes",
+        "El Lobo de Wall Street"
+    ],
+    "Musical": [
+        "Nace una Estrella",
+        "La La Land: Una Historia de Amor"
+    ],
+    "Comedia dramática": [
+        "El Gran Hotel Budapest",
+        "La Vida es Bella",
+        "Birdman"
+    ],
+    "Misterio": [
+        "Perdida",
+        "El Gran Truco"
+    ],
+    "Terror": [
+        "Tiburón",
+        "El Exorcista",
+        "El Resplandor"
+    ],
+    "Deportivo": [
+        "Rocky",
+        "El Juego de la Fortuna"
+    ],
+    "Suspenso": [
+        "El Silencio de los Inocentes",
+        "¡Huye!",
+        "Sin Lugar para los Débiles",
+        "Amnesia",
+        "El Secreto de sus Ojos"
+    ],
+    "Bélico": [
+        "Bastardos Sin Gloria"
+    ],
+    "Comedia": [
+        "El Gran Lebowski"
+    ],
+    "Western": [
+        "Django Sin Cadenas",
+        "Los 8 Más Odiados"
+    ],
+    "Policíaco": [
+        "Los Infiltrados"
+    ],
+    "Comedia romántica": [
+        "Amélie"
+    ],
+    "Fantástico": [
+        "El Joven Manos de Tijera"
+    ]
+}
